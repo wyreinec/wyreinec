@@ -19,5 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-![Yohana's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyreinec&show_icons=true&theme=dark)
+![Yohana's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyreinec&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyreinec&layout=compact)](https://github.com/wyreinec/github-readme-stats)
 
