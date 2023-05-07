@@ -6,7 +6,6 @@
 Game Composer with over one year experience at one of the game studios in Indonesia. Using FL Studio, MuseScore, and VST, I created soundtracks, music levels, cut scenes, and sound effects for four games developed in the studio. The music which I produced for the team inside the studio became the 1st game prototype winner at Agate Academy that collaborate with Kampus Merdeka. In the national game hackathon, a game from the studio became the 2nd winner. The last is in Indigo Startup Incubation. The music for As I Began To Dream became the selected game for <a href="https://id.techinasia.com/startup-game-lolos-inkubator-igsi">Alpha Incubation</a>. Besides making game music, I enjoyed composing instrumental music with the strings element and making transcriptions from the songs.
 <br>
 <br>
-<br>
 I am currently a final year student <a href="https://www.unikom.ac.id/">Universitas Komputer Indonesia</a> pursuing an undergraduate degree, majoring in Informatics Engineering. I am a graduate of <a href="https://grow.google/intl/id_id/bangkit/?tab=machine-learning">Bangkit 2022</a> in the field of Machine Learning with Google Certification of TensorFlow Developer Certificate. I am a leader in the <a href="https://gdsc.community.dev/universitas-komputer-indonesia/">Google Developer Student Clubs at Universitas Komputer Indonesia</a>.
 <br>
 <br>
